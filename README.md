@@ -1,4 +1,6 @@
 # miniBalatro
-Two mods to make Balatro slightly more suitable for ants. (They're technically not smaller but are drawn in half the size)
+A texture mod using Steamodded only (for now) to make Jimbo tiny! This is a WIP in the sense it does not retexture every asset yet, and will likely require Malverk once it does. 
 
-Both mods are currently required because I do not know how to program for pretty much anything. One of the mods will require Malverk as well. 
+For now, it should resprite Jokers, the standard deck of cards and all enhancements, all deck backs, as well as stickers, including stake stickers.
+
+I hope I'm doing this github thing right
