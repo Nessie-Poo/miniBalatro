@@ -5,4 +5,6 @@ For now, it should resprite Jokers, the standard deck of cards and all enhanceme
 
 In order to install the mod, just download the code directly into a zip file using the shiny green button.
 
+CURRENTLY ONLY IN 2X RESOLUTION, which hopefully isn't an issue. (im just too lazy rn)
+
 i hope i did this right! - ness
